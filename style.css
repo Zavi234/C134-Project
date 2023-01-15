@@ -1,0 +1,12 @@
+body
+{
+    background-size: cover;
+}
+
+h1
+{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: orange;
+    margin: 0px;
+    box-shadow: 10px 10px 20px gray;
+}
